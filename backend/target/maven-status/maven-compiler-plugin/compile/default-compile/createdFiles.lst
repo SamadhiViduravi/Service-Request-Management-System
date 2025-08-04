@@ -1,0 +1,8 @@
+com\servicerequest\ServiceRequestApplication.class
+com\servicerequest\repository\ServiceRequestRepository.class
+com\servicerequest\model\ServiceRequest$Priority.class
+com\servicerequest\model\ServiceRequest.class
+com\servicerequest\service\ServiceRequestService.class
+com\servicerequest\model\ServiceRequest$Category.class
+com\servicerequest\model\ServiceRequest$Status.class
+com\servicerequest\controller\ServiceRequestController.class

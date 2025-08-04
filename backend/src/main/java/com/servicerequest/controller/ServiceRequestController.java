@@ -62,8 +62,6 @@ public class ServiceRequestController {
             return ResponseEntity.ok(updatedRequest);
         } catch (RuntimeException e) {
             return ResponseEntity.notFound().build();
-        } catch (IllegalArgumentException e) {
-            return ResponseEntity.badRequest().build();
         }
     }
     
