@@ -3,8 +3,9 @@ export type Course = {
   title: string
 }
 
-export type Student = {
+export type StudentEnrollment = {
   id: string
-  name: string
-  enrolledCourses: Course[]
+  studentName: string
+  courseCode: string
+  courseTitle: string
 }

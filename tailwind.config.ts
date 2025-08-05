@@ -60,12 +60,11 @@ const config = {
           200: "#93c5fd",
           300: "#60a5fa",
           400: "#3b82f6",
-          500: "#2563eb", // Default blue
+          500: "#2563eb", // Primary blue
           600: "#1d4ed8",
           700: "#1e40af",
           800: "#1e3a8a",
           900: "#172554",
-          950: "#0c122a",
         },
       },
       borderRadius: {
